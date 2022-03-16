@@ -12,7 +12,7 @@ function Footer() {
       gap-y-4 grid-flow-row-dense px-8 py-3'>
           <div className='flex justify-center items-center md:col-span-2
           lg:col-span-1 lg:col-start-2'><GlobeIcon className='h-5 mr-1 text-green-700'/> 
-          Carbon neutral since 2007
+          Women day
           </div>
           <div className='flex justify-center space-x-8 whitespace-nowrap 
           md-justify-self-start'>
